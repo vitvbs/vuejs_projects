@@ -1,5 +1,5 @@
 # My VueJs exercises and projects
-Repository designed to publicize my projects made using Javascript's VueJS framework
+Repository designed to publish my projects made using Javascript's VueJS framework
 
 
 ## Built With
